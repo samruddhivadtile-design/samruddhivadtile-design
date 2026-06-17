@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I'm Samruddhi Vadtile
+I am a BCA graduate and aspiring to build a career in Data Analytics. I am passionate about transforming raw data into meaningful insights and developing solutions that support informed decision-making.
 
-<!--
-**samruddhivadtile-design/samruddhivadtile-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Etl
+- Data cleaning
+- Data visulaization
 
-Here are some ideas to get you started:
+### Areas of Interest
+- Data Analytics
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am continuously learning and building practical projects to enhance my analytical and problem-solving abilities.
+
+### 📫 Connect with Me
+- LinkedIn: linkedin.com/in/samruddhi-vadtile
